@@ -4,7 +4,7 @@
 >
 > 自己部署在自己的服务器上就行。
 
-> Golang版：https://github.com/WShuai123/api-for-hot-search-golang
+> Golang版：https://github.com/iiecho1/api-for-hot-search-golang
 
 ## 说明
 
